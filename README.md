@@ -1,4 +1,4 @@
-# oi pessoal, me chamo Julia Meira
+# oi pessoal, me chamo juliameiraped08
 
 - Sou estudante de engenharia de Software, cursando na Unicesumar de Maringá
 - Atualmente trabalho com vendas;
